@@ -1,0 +1,2 @@
+insert into users(username,password,enabled) values('gaurav','$2a$15$f8CjxZlvPMMkne6Z/dN1lOwjpjGBFJHsPYiMs2EPQk3ZLpSPqfvqW',TRUE);
+insert into authorities(id,username,authority) values(1,'gaurav','REGULAR_USER');
