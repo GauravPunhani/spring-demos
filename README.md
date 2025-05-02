@@ -16,9 +16,9 @@ create a reactive controller. Reactive controller will use non-blocking mechanis
 https://github.com/codywynn/spring-boot-cognito (Cognito authentication)
 https://github.com/devxsb/spring-boot-microservices (Local setup using Eureka , Gateway , config-server)
 
-![Blocking API call statistics](https://github.com/GauravPunhani/spring-demos/spring-reactive-concurrency-test/Blocking.png)
+![Blocking API call statistics](https://github.com/GauravPunhani/spring-demos/blob/master/spring-reactive-concurrency-test/Blocking.png)
 
-![Reactive API call statistics](https://github.com/GauravPunhani/spring-demos/spring-reactive-concurrency-test/Reactive.png)
+![Reactive API call statistics](https://github.com/GauravPunhani/spring-demos/blob/master/spring-reactive-concurrency-test/Reactive.png)
 
 ## Become more productive . Write daily todo list , SMART goals and minutes of meetings using below free site
 [TODO LIST , SMART GOALS , MOM , DRAW DESIGN](https://tasks-forme.com)
